@@ -1,5 +1,12 @@
 
-## 👋 About Me<br><br>🎨 Front-End Developer | UI Enthusiast | Code Lover  <br><br>🔭 I’m currently working on: Freelance projects and personal front-end applications to sharpen my skills and build real-world experience. <br>👯 I’m looking to collaborate on: open-source projects / UI projects / web apps  <br>🤝 I’m looking for help with: performance optimization / backend integration / animations / UI Development<br>🌱 I’m currently learning: React / TypeScript / Tailwind / Web animations<br>💬 Ask me about: <HTML / CSS / JavaScript / React / UI/UX / Responsive Design  <br>⚡ Fun fact: I enjoy turning ideas into smooth, user-friendly interfaces.<br>
+## 👋 About Me<br><br>
+🎨 Front-End Developer | UI Enthusiast | Code Lover  <br><br>
+🔭 I’m currently working on: Freelance projects and personal front-end applications to sharpen my skills and build real-world experience. <br>
+👯 I’m looking to collaborate on: open-source projects / UI projects / web apps  <br>
+🤝 I’m looking for help with: performance optimization / backend integration / animations / UI Development<br>
+🌱 I’m currently learning: React / TypeScript / Tailwind / Web animations<br>
+💬 Ask me about: HTML / CSS / JavaScript / React / UI/UX / Responsive Design  <br>
+⚡ Fun fact: I enjoy turning ideas into smooth, user-friendly interfaces.<br>
 
 
 # 💻 Tech Stack:
